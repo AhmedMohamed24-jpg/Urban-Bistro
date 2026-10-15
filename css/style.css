@@ -70,7 +70,7 @@ button:hover {
     background-position: center;
     background-repeat: no-repeat;
     background-color: rgba(140, 140, 136, 0.407);
-    background-blend-mode: overlay; /* لتحسين دمج اللون مع الصورة */
+    background-blend-mode: overlay;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -133,7 +133,7 @@ button:hover {
 .All-services {
     min-height: 100vh;
     padding: 80px 5%;
-    background-color: #f9f9f9; /* لون خلفية اختياري لتوضيح القسم */
+    background-color: #f9f9f9; 
 }
 
 .ph1 {
